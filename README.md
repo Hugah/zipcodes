@@ -9,6 +9,8 @@ USA zip codes data was taken from here: http://federalgovernmentzipcodes.us/
 
 Canada zip codes data was taken from here: https://www.aggdata.com/download_sample.php?file=ca_postal_codes.csv
 
+UK post codes https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html
+
 It was then transformed into a JSON object and then wrapped with some helper methods.
 
 Usage
